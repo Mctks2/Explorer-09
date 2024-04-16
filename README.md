@@ -10,5 +10,8 @@ Se desejar visualizar informações de outros usuários, basta inserir o nome de
 
 ## 🎬 Imagens / Vídeos 
 
+<div align="center">
+  
 ![github-favorites](https://github.com/Mctks2/Explorer-09/assets/62295808/a6cdf043-5743-4f74-8cd8-4f2faa38fae4)
 
+</div>
